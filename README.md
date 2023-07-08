@@ -1,6 +1,6 @@
 <h1 align="center" >Hi 👋, I'm 
   <a href="https://rehbar-ahmad-siddiqui.github.io/portfolio" target="_blank" >
-    Rehbar Ahmad Siddiqui
+    Rehbar Ahmad Siddiqui <span style="color: green"> Some green text </span>
   </a> </h1>
 <h3 align="center">👨‍🎓 A passionate Engineer & Full Stack Developerfrom Lucknow, India</h3>
 
