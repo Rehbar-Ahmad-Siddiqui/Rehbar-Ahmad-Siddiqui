@@ -6,7 +6,17 @@
 <h2>Websites and Application Created</h2>
 <p align="left">
   <a href="https://rehbar-ahmad-siddiqui.github.io/react-resume-craftr" target="_blank" >
-    👋 React Resume Building Application - Click here to view </a>
+    👋 React Resume Building Application - Click here to view 
+  </a>
+  <a href="https://rehbar-ahmad-siddiqui.github.io/react-resume-craftr" target="_blank" >
+    👋 React Resume Building Application - Click here to view 
+  </a>
+  <a href="https://rehbar-ahmad-siddiqui.github.io/react-resume-craftr" target="_blank" >
+    👋 React Resume Building Application - Click here to view 
+  </a>
+  <a href="https://rehbar-ahmad-siddiqui.github.io/react-resume-craftr" target="_blank" >
+    👋 React Resume Building Application - Click here to view 
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
