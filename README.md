@@ -10,6 +10,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehbar-ahmad-siddiqui&show_icons=true&locale=en&layout=compact" alt="rehbar-ahmad-siddiqui" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehbar-ahmad-siddiqui&show_icons=true&locale=en" alt="rehbar-ahmad-siddiqui" /></p>
 
 
