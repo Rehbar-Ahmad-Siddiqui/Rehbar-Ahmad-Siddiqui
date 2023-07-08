@@ -1,5 +1,5 @@
 <h1 align="center" >Hi 👋, I'm Rehbar Ahmad Siddiqui</h1>
-<h3 align="center">A passionate  👨‍🎓 Engineer & 👨‍🎓 Full Stack Developer from Lucknow, India</h3>
+<h3 align="center">A passionate 👨‍🎓 Engineer & Full Stack Developer from Lucknow, India</h3>
 
 </p>
 
