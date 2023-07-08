@@ -7,7 +7,7 @@
 
 <details>
 
-<summary>Qualification</summary>
+<summary>Click here to view my Qualification  :tada:</summary>
 
 ### Education
 
@@ -33,8 +33,6 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
-
- :tada:
 
 
 <h2>💫 Websites and Applications Created 💫</h2>
