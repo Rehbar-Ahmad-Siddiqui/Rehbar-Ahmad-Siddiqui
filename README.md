@@ -1,7 +1,6 @@
 <h1 align="center" >Hi 👋, I'm Rehbar Ahmad Siddiqui</h1>
 <h3 align="center">👨‍🎓 A passionate Engineer & Full Stack Developerfrom Lucknow, India</h3>
 
-</p>
 
 <h2>Websites and Application Created</h2>
 <p align="left">
