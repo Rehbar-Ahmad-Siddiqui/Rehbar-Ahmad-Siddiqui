@@ -7,14 +7,16 @@
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>Qualification</summary>
 
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+### Education
 
-### You can add a header
+| Year | Education | Certification |
+| :---         |     :---:      |          ---: |         ---: | 
+| 2022-2023    | MERN Full Stack Development     |  Certification   |
+| 2014-2018    | B.Tech (Mechanical Engineering) |   81.5 %    |
+|  2013        | Intermediate                    |    72.6 %   |
+|  2011        | Intermediate                    |    73.5 %   |
 
 You can add text within a collapsed section. 
 
