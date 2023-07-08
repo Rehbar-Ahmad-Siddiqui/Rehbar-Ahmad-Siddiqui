@@ -29,9 +29,7 @@ You can add an image or a code block, too.
 </details>
 
 ```
-function hireMe() {
-  console.log("Looking for Job Oppurtunity ! ");
-}
+:tada: Email me : er.rehbar@gmail.com
 ```
 
 
