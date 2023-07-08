@@ -7,11 +7,11 @@
 
 <details>
 
-<summary>Click here to view my Qualification  :tada:</summary>
+<summary> Click here to view my Education & Certification  :tada:</summary>
 
-### Education
+### Education & Certification
 
-| Year | Education | Certification |
+| Year | Education & Certification | Percentage/ Certification |
 | :---         |     :---:      |          ---: | 
 | 2022-2023    | MERN Full Stack Development     |  Certification   |
 | 2014-2018    | B.Tech (Mechanical Engineering) |   81.5 %    |
@@ -29,8 +29,8 @@ You can add an image or a code block, too.
 </details>
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
+function hireMe() {
+  console.log("Looking for Job Oppurtunity ! ");
 }
 ```
 
