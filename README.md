@@ -24,11 +24,6 @@ er.rehbar@gmail.com
 
 </details>
 
-```
-https://rehbar-ahmad-siddiqui.github.io/portfolio
-```
-
-
 <h2>💫 Websites and Applications Created 💫</h2>
 <p align="left">
   <a href="https://expenseapp-dymd.onrender.com" target="_blank" >
