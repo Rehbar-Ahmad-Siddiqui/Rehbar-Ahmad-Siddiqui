@@ -11,10 +11,6 @@ er.rehbar@gmail.com
 
 <h3 align="center">👨‍🎓 A passionate Engineer & Full Stack Developer👨‍🎓 </h3>
 
-```
-er.rehbar@gmail.com
-```
-
 <details>
 
 <summary> Click here to view my Education & Certification  :tada:</summary>
