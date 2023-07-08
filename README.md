@@ -27,19 +27,19 @@ er.rehbar@gmail.com
 <h2>💫 Websites and Applications Created 💫</h2>
 <p align="left">
   <a href="https://expenseapp-dymd.onrender.com" target="_blank" >
-    👉 Full Stack MERN - Expense Management Application - Click here to view 
+    👉 Full Stack MERN - Expense Management Application - Click here to view 👈
   </a>
   <br/>
   <a href="https://rehbar-ahmad-siddiqui.github.io/react-resume-craftr" target="_blank" >
-    👉 React Resume Building Application - Click here to view 
+    👉 React Resume Building Application - Click here to view 👈 
   </a>
   <br/>
   <a href="https://rehbar-ahmad-siddiqui.github.io/revampquiz" target="_blank" >
-    👉 HTML, CSS & Javascript - Quiz Application - Click here to view 
+    👉 HTML, CSS & Javascript - Quiz Application - Click here to view 👈
   </a>
   <br/>
   <a href="https://rehbar-ahmad-siddiqui.github.io/portfolio" target="_blank" >
-    👉 HTML, CSS & Javascript- Portfolio Resume - Click here to view 
+    👉 HTML, CSS & Javascript- Portfolio Resume - Click here to view 👈
   </a>
   <br/>
 </p>
