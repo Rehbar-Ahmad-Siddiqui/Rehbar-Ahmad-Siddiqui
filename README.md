@@ -28,14 +28,15 @@ er.rehbar@gmail.com
 
 <summary> Click here to know more About Me  :tada:</summary>
 
-### Education & Certification
+### 🖥𝐌𝐄𝐑𝐍 - 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 |🖥
+ 
+📍Highly motivated and enthusiastic Full Stack Developer with a strong passion for technology and a drive to excel in the field. A solid foundation in Coding has equipped me with a diverse skill set encompassing both front-end and back-end development. Proficient in HTML, CSS, JavaScript, and experienced with framework like React , I strive to create visually appealing and user-friendly interfaces. On the back-end, I have expertise in languages such as Node.js, utilizing frameworks like Express. Well-versed in RESTful API design and implementation, I have worked with databases including MongoDB, optimizing query performance and managing data effectively. Familiar with version control systems like Git, I thrive in collaborative environments and value open communication for achieving shared goals.
 
-| Year | Education & Certification | Percentage/ Certification |
-| :---         |     :---:      |          ---: | 
-| 2022-2023    | MERN Full Stack Development     |  Certification   |
-| 2014-2018    | B.Tech (Mechanical Engineering) |   81.5 %    |
-|  2013        | Intermediate                    |    72.6 %   |
-|  2011        | High School                    |    73.5 %   |
+📍With a commitment to continuous learning, I have undertaken personal projects to showcase my abilities as a Full Stack Developer. From developing web applications from scratch to implementing responsive designs and integrating APIs, I constantly challenge myself to expand my portfolio and enhance my skills. As a quick learner, I am always eager to explore emerging technologies and stay updated with the latest industry trends.
+
+📍My problem-solving and analytical skills enable me to identify and resolve complex issues efficiently. I strongly believe in the power of teamwork and collaborative environments, valuing open communication and collective efforts to achieve success. As a Full Stack Developer, my objective is to apply my knowledge and skills in a professional setting, contribute to a dynamic team, and make a positive impact on projects. Despite limited professional work experience, I am confident in my abilities and committed to continuous growth.
+
+📍If you are searching for a motivated and determined Full Stack Developer who embraces challenges, I would be thrilled to connect with you and explore potential opportunities. Let's discuss how my skills and enthusiasm can contribute to the success of your organization.
 
 </details>
 
