@@ -3,7 +3,7 @@
 
 </p>
 
-<h4>Websites and Application Created</h4>
+<h2>Websites and Application Created</h2>
 <p align="left">
   <a href="https://rehbar-ahmad-siddiqui.github.io/react-resume-craftr" target="_blank" >React Resume Building Application - https://rehbar-ahmad-siddiqui.github.io/react-resume-craftr </a>
 </p>
