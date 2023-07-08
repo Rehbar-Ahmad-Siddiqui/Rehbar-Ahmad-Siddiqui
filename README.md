@@ -2,10 +2,10 @@
   <a href="https://rehbar-ahmad-siddiqui.github.io/portfolio" target="_blank" >
     Rehbar Ahmad Siddiqui 
   </a> from Lucknow, India
-  ```
-  er.rehbar@gmail.com
-  ```
 </h1>
+```
+er.rehbar@gmail.com
+```
 <h3 align="center">👨‍🎓 A passionate Engineer & Full Stack Developer👨‍🎓 </h3>
 
 ```
