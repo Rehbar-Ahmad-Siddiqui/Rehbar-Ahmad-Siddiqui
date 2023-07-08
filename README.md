@@ -9,9 +9,8 @@
 <h2>💫 Websites and Applications Created 💫</h2>
 <p align="left">
   <a href="https://expenseapp-dymd.onrender.com" target="_blank" >
-    👉  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="25" height="25"/> 
-        </a> Full Stack MERN - Expense Management Application - Click here to view 
+    👉   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="25" height="25"/> 
+         Full Stack MERN - Expense Management Application - Click here to view 
   </a>
   <br/>
   <a href="https://rehbar-ahmad-siddiqui.github.io/react-resume-craftr" target="_blank" >
