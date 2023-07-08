@@ -6,16 +6,16 @@
 <h3 align="center">👨‍🎓 A passionate Engineer & Full Stack Developer👨‍🎓 </h3>
 
 
-| First Header  | Second Header |
+| First Header  | Second Header | | MERN - Full Stack Development | Center-aligne | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
 
-| MERN - Full Stack Development | Center-aligne | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+
 
 <h2>💫 Websites and Applications Created 💫</h2>
 <p align="left">
