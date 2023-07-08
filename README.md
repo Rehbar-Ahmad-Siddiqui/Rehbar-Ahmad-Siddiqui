@@ -29,7 +29,7 @@ You can add an image or a code block, too.
 </details>
 
 ```
-:tada: Email me : er.rehbar@gmail.com
+https://rehbar-ahmad-siddiqui.github.io/portfolio
 ```
 
 
