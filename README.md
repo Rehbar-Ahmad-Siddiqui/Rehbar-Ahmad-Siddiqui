@@ -8,15 +8,19 @@
   <a href="https://rehbar-ahmad-siddiqui.github.io/react-resume-craftr" target="_blank" >
     👋 React Resume Building Application - Click here to view 
   </a>
+  <br/>
   <a href="https://rehbar-ahmad-siddiqui.github.io/react-resume-craftr" target="_blank" >
     👋 React Resume Building Application - Click here to view 
   </a>
+  <br/>
   <a href="https://rehbar-ahmad-siddiqui.github.io/react-resume-craftr" target="_blank" >
     👋 React Resume Building Application - Click here to view 
   </a>
+  <br/>
   <a href="https://rehbar-ahmad-siddiqui.github.io/react-resume-craftr" target="_blank" >
     👋 React Resume Building Application - Click here to view 
   </a>
+  <br/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
