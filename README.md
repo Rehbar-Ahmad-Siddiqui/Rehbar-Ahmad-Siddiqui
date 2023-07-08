@@ -16,7 +16,7 @@
 | 2022-2023    | MERN Full Stack Development     |  Certification   |
 | 2014-2018    | B.Tech (Mechanical Engineering) |   81.5 %    |
 |  2013        | Intermediate                    |    72.6 %   |
-|  2011        | Intermediate                    |    73.5 %   |
+|  2011        | High School                    |    73.5 %   |
 
 </details>
 
