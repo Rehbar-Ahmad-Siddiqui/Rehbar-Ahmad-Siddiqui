@@ -26,6 +26,12 @@ You can add an image or a code block, too.
 
 </details>
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
 
 <h2>💫 Websites and Applications Created 💫</h2>
 <p align="left">
