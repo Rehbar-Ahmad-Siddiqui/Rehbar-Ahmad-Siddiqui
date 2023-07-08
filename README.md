@@ -5,14 +5,6 @@
 </h1>
 <h3 align="center">👨‍🎓 A passionate Engineer & Full Stack Developer👨‍🎓 </h3>
 
-```
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
 <details>
 
 <summary>Qualification</summary>
