@@ -18,14 +18,6 @@
 |  2013        | Intermediate                    |    72.6 %   |
 |  2011        | Intermediate                    |    73.5 %   |
 
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
 </details>
 
 ```
