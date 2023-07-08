@@ -6,7 +6,7 @@
 <h3 align="center">👨‍🎓 A passionate Engineer & Full Stack Developer </h3>
 
 
-<h2>Websites and Application Created</h2>
+<h2>❤️ Websites and Applications Created</h2>
 <p align="left">
   <a href="https://expenseapp-dymd.onrender.com" target="_blank" >
     👉 Full Stack MERN - Expense Management Application - Click here to view 
