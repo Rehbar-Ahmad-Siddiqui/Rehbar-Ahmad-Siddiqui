@@ -5,14 +5,14 @@
 </h1>
 <h3 align="center">👨‍🎓 A passionate Engineer & Full Stack Developer👨‍🎓 </h3>
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
-
-<details>
-
-<summary>Tips for collapsed sections</summary>
 
 ### You can add a header
 
