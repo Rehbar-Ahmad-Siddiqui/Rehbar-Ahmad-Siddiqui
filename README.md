@@ -5,12 +5,17 @@
 </h1>
 <h3 align="center">👨‍🎓 A passionate Engineer & Full Stack Developer👨‍🎓 </h3>
 
-<p align="center">
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-</p>
+
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 <h2>💫 Websites and Applications Created 💫</h2>
 <p align="left">
