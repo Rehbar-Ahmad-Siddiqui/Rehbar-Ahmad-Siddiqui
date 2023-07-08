@@ -5,11 +5,10 @@
 </h1>
 <h3 align="center">👨‍🎓 A passionate Engineer & Full Stack Developer👨‍🎓 </h3>
 
-
-| First Header  | Second Header | 
-| :---         |     :---:      |         
-| git status   | git status     | 
-| git diff     | git diff       |
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
 
 
 
