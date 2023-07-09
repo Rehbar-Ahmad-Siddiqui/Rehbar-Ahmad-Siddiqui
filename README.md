@@ -77,7 +77,7 @@ er.rehbar@gmail.com
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehbar-ahmad-siddiqui&show_icons=true&locale=en&layout=compact" alt="rehbar-ahmad-siddiqui" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rehbar-ahmad-siddiqui&" alt="rehbar-ahmad-siddiqui" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehbar-ahmad-siddiqui&" alt="rehbar-ahmad-siddiqui" /></p>
 
 
 
