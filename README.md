@@ -1,7 +1,7 @@
 <h1 align="center" >Hi 👋, I'm 
   <a href="https://rehbar-ahmad-siddiqui.github.io/portfolio" target="_blank" >
     Rehbar Ahmad Siddiqui 
-  </a> from Lucknow, India 🌐
+  </a> from Lucknow, India 🇮🇳
 </h1>
 
 <h3 align="center">👨‍🎓 A passionate Engineer & a creative Full Stack Developer 🖥 </h3>
