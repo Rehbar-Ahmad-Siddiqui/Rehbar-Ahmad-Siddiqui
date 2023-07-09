@@ -23,21 +23,6 @@ er.rehbar@gmail.com
 
 <details>
 
-<summary> Click here to view my Education & Certification  :tada:</summary>
-
-### Education & Certification
-
-| Year | Education & Certification | Percentage/ Certification |
-| :---         |     :---:      |          ---: | 
-| 2022-2023    | MERN Full Stack Development     |  Certification   |
-| 2014-2018    | B.Tech (Mechanical Engineering) |   81.5 %    |
-|  2013        | Intermediate                    |    72.6 %   |
-|  2011        | High School                    |    73.5 %   |
-
-</details>
-
-<details>
-
 <summary> Click here to know more About Me  :tada:</summary>
 
 ### 🖥𝐌𝐄𝐑𝐍 - 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 |🖥
@@ -49,6 +34,21 @@ er.rehbar@gmail.com
 📍My problem-solving and analytical skills enable me to identify and resolve complex issues efficiently. I strongly believe in the power of teamwork and collaborative environments, valuing open communication and collective efforts to achieve success. As a Full Stack Developer, my objective is to apply my knowledge and skills in a professional setting, contribute to a dynamic team, and make a positive impact on projects. Despite limited professional work experience, I am confident in my abilities and committed to continuous growth.
 
 📍If you are searching for a motivated and determined Full Stack Developer who embraces challenges, I would be thrilled to connect with you and explore potential opportunities. Let's discuss how my skills and enthusiasm can contribute to the success of your organization.
+
+</details>
+
+<details>
+
+<summary> Click here to view my Education & Certification  :tada:</summary>
+
+### Education & Certification
+
+| Year | Education & Certification | Percentage/ Certification |
+| :---         |     :---:      |          ---: | 
+| 2022-2023    | MERN Full Stack Development     |  Certification   |
+| 2014-2018    | B.Tech (Mechanical Engineering) |   81.5 %    |
+|  2013        | Intermediate                    |    72.6 %   |
+|  2011        | High School                    |    73.5 %   |
 
 </details>
 
