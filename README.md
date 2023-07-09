@@ -43,7 +43,7 @@ er.rehbar@gmail.com
 
 <h2>💫 Websites and Applications Created 💫</h2>
 <p align="left">
-  <a href="https://expenseapp-dymd.onrender.com" target="_blank" >
+  <a href="https://exp-app.onrender.com" target="_blank" >
     👉 Full Stack MERN - Expense Management Application - Click here to view 👈
   </a>
   <br/>
