@@ -79,7 +79,7 @@ er.rehbar@gmail.com
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehbar-ahmad-siddiqui&show_icons=true&locale=en&layout=compact" alt="rehbar-ahmad-siddiqui"  width="1200" height="180"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rehbar-Ahmad-Siddiqui&theme=sunset-gradient&hide_border=true&border_radius=60&card_width=1200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rehbar-Ahmad-Siddiqui&theme=tokyonight&hide_border=true&border_radius=60&card_width=1200)](https://git.io/streak-stats)
 
 
 
