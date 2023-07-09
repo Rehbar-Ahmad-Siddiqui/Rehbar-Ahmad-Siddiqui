@@ -6,7 +6,7 @@
 
 <h3 align="center">👨‍🎓 A passionate Engineer & Full Stack Developer 🖥 </h3>
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/https://stackoverflow.com/users/22043017/rehbar-ahmad-siddiqui" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://stackoverflow.com/users/22043017/rehbar-ahmad-siddiqui" height="30" width="40" />
 </a>
