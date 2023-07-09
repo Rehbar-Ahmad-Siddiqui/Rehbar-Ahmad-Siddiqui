@@ -4,7 +4,7 @@
   </a> from Lucknow, India
 </h1>
 
-<h3 align="center">👨‍🎓 A passionate Engineer & Full Stack Developer 🖥 </h3>
+<h3 align="center">👨‍🎓 A passionate Engineer & a creative Full Stack Developer 🖥 </h3>
 
 <p align="center">
 <a href="https://twitter.com/https://stackoverflow.com/users/22043017/rehbar-ahmad-siddiqui" target="blank">
