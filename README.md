@@ -79,6 +79,8 @@ er.rehbar@gmail.com
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehbar-ahmad-siddiqui&" alt="rehbar-ahmad-siddiqui" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rehbar-Ahmad-Siddiqui&theme=sunset-gradient&hide_border=true&border_radius=60)](https://git.io/streak-stats)
+
 
 
 
