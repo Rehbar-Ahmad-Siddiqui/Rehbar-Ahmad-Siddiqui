@@ -4,7 +4,7 @@
   </a> from Lucknow, India
 </h1>
 
-<h3 align="center">👨‍🎓 A passionate Engineer & Full Stack Developer👨‍🎓 </h3>
+<h3 align="center">👨‍🎓 A passionate Engineer & Full Stack Developer 🖥 </h3>
 
 ```
 er.rehbar@gmail.com
