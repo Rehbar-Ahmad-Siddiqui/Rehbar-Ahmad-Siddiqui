@@ -66,6 +66,10 @@ er.rehbar@gmail.com
     👉 HTML, CSS & Javascript - Quiz Application - Click here to view 🚀
   </a>
   <br/>
+  <a href="https://rehbar-ahmad-siddiqui.github.io/calculator-application" target="_blank" >
+    👉 HTML, CSS & Javascript - Calculator Application - Click here to view 🚀
+  </a>
+  <br/>
   <a href="https://rehbar-ahmad-siddiqui.github.io/portfolio" target="_blank" >
     👉 HTML, CSS & Javascript- Portfolio Resume - Click here to view 🚀
   </a>
